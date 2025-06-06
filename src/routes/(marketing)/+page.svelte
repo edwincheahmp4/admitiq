@@ -65,7 +65,7 @@
     document.documentElement.style.scrollBehavior = 'smooth';
   }
 </script>
-        <a href="">
+        <a href="https://form.typeform.com/to/CryN4TVr">
           <button class="btn btn-outline px-6 text-[#2d174d]">
             Schedule a free 15-minute chat
           </button>
@@ -139,9 +139,10 @@
             to know. I’m here to help and am more than happy to share my
             personal experiences to help you plan best practices for your child.
           </div>
+<a href="https://form.typeform.com/to/CryN4TVr">
           <button class="btn btn-primary btn-wide mt-auto">
             Book Free Chat
-          </button>
+          </button></a>
         </div>
       </div>
       <!-- IB Subject Tutoring -->
@@ -158,9 +159,10 @@
             will have a clear path of navigating the IB of them in the two years
             ahead.
           </div>
+          <a href="https://form.typeform.com/to/ik19KsYE">
           <button class="btn btn-primary btn-wide mt-auto">
-            Get Tutoring
-          </button>
+            Plan a free trial
+          </button></a>
         </div>
       </div>
       <!-- 1-on-1 Pre-IB Counseling -->
@@ -177,9 +179,10 @@
             strategically select courses, and build winning habits inspired by
             IB analytics and science-based strategies.
           </div>
+          <a href="https://form.typeform.com/to/w6pC4DSO">
           <button class="btn btn-primary btn-wide mt-auto">
-            Start Counseling
-          </button>
+            Plan a free trial
+          </button></a>
         </div>
       </div>
     </div>
