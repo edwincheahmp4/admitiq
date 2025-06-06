@@ -1,8 +1,8 @@
 <script lang="ts">
   import { page } from "$app/stores"
   import { error } from "@sveltejs/kit"
-  import { sortedBlogPosts, type BlogPost } from "./../posts"
-  import { WebsiteName } from "../../../../config"
+  import { sortedBlogPosts, type BlogPost } from "../blog/posts"
+  import { WebsiteName } from "../../../config"
   interface Props {
     children?: import("svelte").Snippet
   }

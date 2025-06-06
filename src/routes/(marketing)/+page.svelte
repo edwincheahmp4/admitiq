@@ -205,7 +205,7 @@
       svgContent: `
       <circle cx="10" cy="6" r="4" stroke="#1C274C" stroke-width="1.5"/>
 <path d="M18 17.5C18 19.9853 18 22 10 22C2 22 2 19.9853 2 17.5C2 15.0147 5.58172 13 10 13C14.4183 13 18 15.0147 18 17.5Z" stroke="currentColor" stroke-width="1.5"/>
-<path d="M18.0885 12.5385L18.5435 11.9423L18.0885 12.5385ZM19 8.64354L18.4681 9.17232C18.6089 9.31392 18.8003 9.39354 19 9.39354C19.1997 9.39354 19.3911 9.31392 19.5319 9.17232L19 8.64354ZM19.9115 12.5385L19.4565 11.9423L19.9115 12.5385ZM18.5435 11.9423C18.0571 11.571 17.619 11.274 17.2659 10.8891C16.9387 10.5324 16.75 10.1638 16.75 9.69973H15.25C15.25 10.6481 15.6642 11.362 16.1606 11.9031C16.6311 12.4161 17.2372 12.8322 17.6335 13.1347L18.5435 11.9423ZM16.75 9.69973C16.75 9.28775 16.9898 8.95469 17.2973 8.81862C17.5635 8.7008 17.9874 8.68874 18.4681 9.17232L19.5319 8.11476C18.6627 7.24047 17.5865 7.0503 16.6903 7.44694C15.8352 7.82533 15.25 8.69929 15.25 9.69973H16.75ZM17.6335 13.1347C17.7825 13.2483 17.9756 13.3959 18.1793 13.5111C18.3832 13.6265 18.6656 13.75 19 13.75V12.25C19.0344 12.25 19.0168 12.2615 18.9179 12.2056C18.8187 12.1495 18.7061 12.0663 18.5435 11.9423L17.6335 13.1347ZM20.3665 13.1347C20.7628 12.8322 21.3689 12.4161 21.8394 11.9031C22.3358 11.362 22.75 10.6481 22.75 9.69973H21.25C21.25 10.1638 21.0613 10.5324 20.7341 10.8891C20.381 11.274 19.9429 11.571 19.4565 11.9423L20.3665 13.1347ZM22.75 9.69973C22.75 8.69929 22.1648 7.82533 21.3097 7.44694C20.4135 7.0503 19.3373 7.24047 18.4681 8.11476L19.5319 9.17232C20.0126 8.68874 20.4365 8.7008 20.7027 8.81862C21.0102 8.95469 21.25 9.28775 21.25 9.69973H22.75ZM19.4565 11.9423C19.2939 12.0663 19.1813 12.1495 19.0821 12.2056C18.9832 12.2615 18.9656 12.25 19 12.25V13.75C19.3344 13.75 19.6168 13.6265 19.8207 13.5111C20.0244 13.3959 20.2175 13.2483 20.3665 13.1347L19.4565 11.9423Z" fill="currentColor"/>
+<path d="M18.0885 12.5385L18.5435 11.9423L18.0885 12.5385ZM19 8.64354L18.4681 9.17232C18.6089 9.31392 18.8003 9.39354 19 9.39354C19.1997 9.39354 19.3911 9.31392 19.5319 9.17232L19 8.64354ZM19.9115 12.5385L19.4565 11.9423L19.9115 12.5385ZM18.5435 11.9423C18.0571 11.571 17.619 11.274 17.2659 10.8891C16.9387 10.5324 16.75 10.1638 16.75 9.69973H15.25C15.25 10.6481 15.6642 11.362 16.1606 11.9031C16.6311 12.4161 17.2372 12.8322 17.6335 13.1347L18.5435 11.9423ZM16.75 9.69973C16.75 9.28775 16.9898 8.95469 17.2973 8.81862C17.5635 8.7008 17.9874 8.68874 18.4681 9.17232L19.5319 8.11476C18.6627 7.24047 17.5865 7.0503 16.6903 7.44694C15.8352 7.82533 15.25 8.69929 15.25 9.69973H16.75ZM17.6335 13.1347C17.7825 13.2483 17.9756 13.3959 18.1793 13.5111C18.3832 13.6265 18.6656 13.75 19 13.75V12.25C19.0344 12.25 19.0168 12.2615 18.9179 12.2056C18.8187 12.1495 18.7061 12.0663 18.5435 11.9423L17.6335 13.1347ZM20.3665 13.1347C20.7628 12.8322 21.3689 12.4161 21.8394 11.9031C22.3358 11.362 22.75 10.6481 22.75 9.69973H21.25C21.25 10.1638 21.0613 10.5324 20.7341 10.8891C20.381 11.274 19.9429 11.571 19.4565 11.9423L20.3665 13.1347ZM22.75 9.69973C22.75 8.69929 22.1648 7.82533 21.3097 7.44694C20.4135 7.0503 19.3373 7.24047 18.4681 8.11476L19.5319 9.17232C20.0126 8.68874 20.4365 8.7008 20.7027 8.81862C21.0102 8.95469 21.25 9.28775 21.25 9.69973H22.75ZM19.4565 11.9423C19.2939 12.0663 19.1813 12.1495 19.0821 12.2056C18.9832 12.2615 18.9656 12.25 19 12.25V13.75C19.3344 13.75 19.6168 13.6265 19.8207 13.5111C20.0244 13.3959 20.2175 13.2483 20.3665 13.1347L19.4565 11.9423Z" fill="currentColor" stroke="currentColor" stroke-width="0.5" stroke-linecap="round"/>
       `,
     },
     {
@@ -220,6 +220,54 @@
       `,
     },
   ]
+
+  let showModal = false
+  let modalContent = ""
+  let modalTitle = ""
+  let ctaLink = ""
+  let ctaLinkText = ""
+  let newTab = false
+
+  function openModal(title, content, cta = null) {
+    modalTitle = title
+    modalContent = content
+    if (cta) {
+      ctaLink = cta.link
+      ctaLinkText = cta.text
+      newTab = cta.newTab || false
+    }
+    showModal = true
+  }
+
+  function closeModal() {
+    showModal = false
+  }
+
+  import { onMount } from "svelte";
+  let blogPosts: { title: string; slug: string; description?: string }[] = [];
+
+  // Your project structure is:
+  // /routes/(marketing)/blog/[slug]/+page.svelte   <-- each blog post
+  // /routes/(marketing)/blog/+page.svelte         <-- blog index (optional)
+  // /routes/(marketing)/+page.svelte              <-- main page (this file)
+  //
+  // You want to list all blog posts on the main page.
+  // SvelteKit does NOT automatically provide a JSON endpoint for all posts.
+  // You need to create a +server.ts (or +page.server.ts) in /routes/(marketing)/blog/
+  // that exports all posts' metadata (title, slug, description).
+  //
+  // Here is the correct fetch logic for the main page:
+  onMount(async () => {
+    try {
+      // This endpoint must be implemented as described above.
+      const res = await fetch("/blog/posts.json");
+      if (res.ok) {
+        blogPosts = await res.json();
+      }
+    } catch (e) {
+      // handle error or leave empty
+    }
+  });
 </script>
 
 <svelte:head>
@@ -229,200 +277,80 @@
   {@html jsonldScript}
 </svelte:head>
 
-<div class="hero min-h-[60vh]">
+<div class="hero min-h-[60vh] dotted-bg">
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
-      <div
-        class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
-      >
-        SaaS Starter Demo
+      <div class="text-[#2d174d] text-xl md:text-3xl font-bold mb-3 md:mb-7 pb-1">
+        ☔️ Save <span
+          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
+          >your child</span
+        > from IB stress
       </div>
 
       <div
-        class="text-4xl md:text-6xl font-bold px-2"
-        style="line-height: 1.2;"
+        class="text-4xl md:text-5xl font-bold px-2 bg-clip-text text-transparent bg-linear-to-r from-primary to-accent"
+        style="line-height: 1.2; "
       >
-        The
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >open source</span
-        >,
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fast</span
-        >, and
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free to host</span
-        >
-        <span> SaaS template</span>
+        One summer of preparation.
+        <br />
+        <span>Two whole years of <br />success.</span>
       </div>
-      <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Built with <a
-          href="https://kit.svelte.dev"
-          class="link font-bold"
-          target="_blank">SvelteKit</a
-        >,
-        <a href="https://supabase.com" class="link font-bold" target="_blank"
-          >Supabase</a
-        >,
-        <a href="https://stripe.com" class="link font-bold" target="_blank"
-          >Stripe</a
-        >,
-        <a href="https://tailwindcss.com" class="link font-bold" target="_blank"
-          >Tailwind</a
-        >,
-        <a href="https://daisyui.com" class="link font-bold" target="_blank"
-          >DaisyUI</a
-        >, and
-        <a
-          href="https://www.postgresql.org"
-          class="link font-bold"
-          target="_blank">Postgres</a
-        >
+      <div class="mt-6 md:mt-10 text-sm md:text-lg text-[#2d174d]">
+        Hear from a 45 perfect IB scorer and full-ride scholarship student.
       </div>
-      <div
-        class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center"
-      >
-        <a href="https://github.com/CriticalMoments/CMSaasStarter">
-          <button class="btn btn-primary px-6">★ us on Github</button>
-        </a>
-        <a
-          href="https://github.com/CriticalMoments/CMSaasStarter/tree/main#saas-starter"
-        >
-          <button class="btn btn-outline btn-primary px-6">Read the Docs</button
+      <div class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center">
+        <a href="">
+  <button class="btn btn-primary px-6 flex items-center gap-2">
+    Learn more
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/>
+  <line x1="16.65" y1="16.65" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</svg>
+  </button>
+</a>
+        <a href="">
+          <button class="btn btn-outline px-6 text-[#2d174d]"
+            >Schedule a free 15-minute chat</button
           >
         </a>
       </div>
     </div>
   </div>
 </div>
-<div class="min-h-[60vh]">
-  <div class="pt-20 pb-8 px-7">
-    <div class="max-w-lg mx-auto text-center">
-      <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent pb-2"
-      >
-        Explore the Features
-      </div>
-      <div class="mt-4 text-xl font-bold">
-        And try them on this
-        <span
-          class="underline decoration-secondary decoration-[3px] md:decoration-[4px]"
-        >
-          fully functional demo
-        </span>
-      </div>
-    </div>
 
-    <div
-      class="flex gap-6 mt-12 max-w-[1064px] mx-auto place-content-center flex-wrap"
-    >
-      {#each features as feature}
-        <div class="card bg-white w-[270px] min-h-[300px] flex-none shadow-xl">
-          <div class="card-body items-center text-center p-[24px] pt-[32px]">
-            <div>
-              <svg
-                width="50px"
-                height="50px"
-                class="mb-2 mt-1"
-                viewBox="0 0 24 24"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-                {@html feature.svgContent}
-              </svg>
-            </div>
-            <h2 class="card-title">
-              {feature.name}
-            </h2>
-            <p class="text-sm">
-              {feature.description}
-            </p>
-            {#if feature.link}
-              <a
-                href={feature.link}
-                class="pb-4"
-                target={feature.newPage ? "_blank" : ""}
-              >
-                <button
-                  class="btn btn-xs btn-outline rounded-full btn-primary min-w-[100px]"
-                  >{feature.linkText ? feature.linkText : "Try It"}</button
-                >
-              </a>
-            {/if}
-          </div>
-        </div>
-      {/each}
-    </div>
-  </div>
-</div>
-<div class="hero min-h-[60vh] mt-12">
-  <div class="hero-content text-center pb-16 pt-4 px-4">
-    <div class="max-w-lg">
-      <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mt-4 pb-2"
-      >
-        See it in Action
-      </div>
-      <div
-        class="flex flex-col lg:flex-row mt-6 gap-6 place-content-center content-center"
-      >
-        <div class="hidden md:block">
-          <a href="https://criticalmoments.io" target="_blank" class="link">
-            <div class="mockup-browser border">
-              <div class="mockup-browser-toolbar">
-                <div class="input" style="background:#eee;">
-                  https://criticalmoments.io
-                </div>
-              </div>
-              <div class="flex justify-center">
-                <img
-                  alt="Screenshot of criticalmoments.io homepage"
-                  class="aspect-2044/1242"
-                  src="/images/example-home.png"
-                />
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="md:hidden">
-          <a href="https://criticalmoments.io" target="_blank" class="link">
-            <div class="card shadow-xl border overflow-hidden">
+
+<div id="why-help" class="min-h-[60vh]">
+  <div class="bg-primary/90 pt-5 pb-8 px-7">
+    <div class="min-h-[60vh]">
+      <div class="pt-20 pb-8 px-4">
+        <div class="max-w-7xl mx-auto">
+          <div
+            class="bg-white rounded-2xl shadow-xl flex flex-col md:flex-row items-center p-8 md:p-12 gap-8 min-h-[320px]"
+          >
+            <!-- Photo -->
+            <div
+              class="flex-shrink-0 h-full flex items-stretch w-full md:w-1/2"
+            >
               <img
-                alt="Screenshot of criticalmoments.io homepage"
-                class="aspect-2044/1242"
-                src="/images/example-home.png"
+                src="/images/edwincheah.jpeg"
+                alt="Edwin Cheah"
+                class="h-full w-full object-cover"
               />
-            </div></a
-          >
-        </div>
-        <div class="min-w-[270px] lg:min-w-[420px] flex mt-6 lg:mt-0">
-          <div class="my-auto">
-            <div class="px-4 text-lg md:text-xl">
-              <a href="https://criticalmoments.io" class="" target="_blank"
-                >SaaS Starter was created by <span
-                  class="font-bold whitespace-nowrap">Critical Moments</span
-                >: a SDK to to help mobile apps
-                <span class="underline decoration-secondary decoration-[3px]"
-                  >increase conversion rates and app-ratings.</span
-                ></a
+              <!-- keep left rounding if you want, remove if not -->
+            </div>
+            <!-- Text -->
+            <div 
+              class="flex-1 text-center md:text-left w-full md:w-1/2 flex flex-col justify-center"
+            >
+              <div 
+                class="text-2xl md:text-4xl font-bold pb-2 mb-2"
               >
-            </div>
-            <div class="px-4 mt-6 text-lg md:text-xl">
-              Our <a
-                href="https://criticalmoments.io"
-                class="link font-bold"
-                target="_blank">webpage</a
-              > is the best example of SaaS Starter with style and real content.
-            </div>
-            <div class="mt-4 text-large">
-              <a href="https://criticalmoments.io" target="_blank">
-                <button class="btn btn-primary btn-wide mt-3"
-                  >See it in Action</button
-                >
-              </a>
+                Why I want to help
+              </div>
+              <div class="mt-2 text-lg font-normal text-gray-800">
+                My name is Edwin and I am a 45 perfect IB scorer on a full-ride
+                scholarship at Wesleyan University. <span class="underline decoration-secondary decoration-4 font-bold">AdmitIQ</span> is a program I built for my younger self, keeping in mind the struggles I faced when I first started the IB program. Knowing how overwhelming it can be to start the IB, especially after a long summer break, I find it to be essential to utilize your summer to save your child's future self from stress. That's why I'm strongly passionate about helping your child succeed in the IB program by providing them with the tools and resources they need to excel.
+              </div>
             </div>
           </div>
         </div>
@@ -430,3 +358,101 @@
     </div>
   </div>
 </div>
+
+<!-- Add this section after the hero or wherever you want the cards to appear -->
+<div id="services" class="py-16 bg-base-100">
+  <div class="max-w-5xl mx-auto px-4">
+    <div class="text-center mb-10">
+      <div  class="text-3xl md:text-4xl font-bold text-[#2d174d] mb-2">
+        Get ahead of the game
+      </div>
+      <div class="text-lg text-[#2d174d] opacity-80">
+        Choose the best way to support your child's IB journey.
+      </div>
+    </div>
+    <div class="flex flex-col md:flex-row gap-8 justify-center items-stretch">
+      <!-- Free Coffee Chat -->
+      <div class="card bg-white shadow-xl rounded-2xl flex-1">
+        <div class="card-body flex flex-col items-center text-center p-8">
+          <div class="text-lg font-bold text-[#2d174d] mb-2">☕️ Free Virtual Coffee Chat <br/> <span class="font-normal text-base text-gray-500">(15-30 mins)</span> </div>
+          <div class="text-[#2d174d] mb-4">
+            Let's chat for 15 minutes over Zoom so you can ask me any questions about the IB, college preparations, or anything else you would like to know. I’m here to help and am more than happy to share my personal experiences to help you plan best practices for your child. 
+          </div>
+          <button class="btn btn-primary btn-wide mt-auto">Book Free Chat</button>
+        </div>
+      </div>
+      <!-- IB Subject Tutoring -->
+      <div class="card bg-white shadow-xl rounded-2xl flex-1">
+        <div class="card-body flex flex-col items-center text-center p-8">
+          <div class="text-lg font-bold text-[#2d174d] mb-2">📚 IB Subject Tutoring <br/> <span class="font-normal text-base text-gray-500">($60/hr)</span></div>
+          <div class="text-[#2d174d] mb-4">
+            Help your child familiarize themselves with essential foundations for core IB subjects with affordable rates. By providing free access to high scoring IAs, past papers, and subject notes - your child will have a clear path of navigating the IB of them in the two years ahead.
+          </div>
+          <button class="btn btn-primary btn-wide mt-auto">Get Tutoring</button>
+        </div>
+      </div>
+      <!-- 1-on-1 Pre-IB Counseling -->
+      <div class="card bg-white shadow-xl rounded-2xl flex-1">
+        <div class="card-body flex flex-col items-center text-center p-8">
+          <div class="text-lg font-bold text-[#2d174d] mb-2">🎓 1-on-1 Counseling <br/> <span class="font-normal text-base text-gray-500">($70/hr)</span></div>
+          <div class="text-[#2d174d] mb-4">
+            Understand what your child will need to go through in the next 2 years to save them from stress in future. Provide your child with a personalized success roadmap to navigate college applications, strategically select courses, and build winning habits inspired by IB analytics and science-based strategies.
+          </div>
+          <button class="btn btn-primary btn-wide mt-auto">Start Counseling</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{#if showModal}
+  <div class="fixed inset-0 flex items-center justify-center z-50">
+    <div class="modal modal-open">
+      <div class="modal-box relative">
+        <button
+          class="btn btn-sm btn-circle absolute right-2 top-2"
+          on:click={closeModal}
+        >
+          ✕
+        </button>
+        <h2 class="text-lg font-bold mb-4">{modalTitle}</h2>
+        <div class="modal-content mb-4">
+          {@html modalContent}
+        </div>
+        {#if ctaLink}
+          <div class="modal-action">
+            <a
+              href={ctaLink}
+              class="btn btn-primary"
+              target={newTab ? "_blank" : "_self"}
+              rel={newTab ? "noopener noreferrer" : ""}
+            >
+              {ctaLinkText}
+            </a>
+          </div>
+        {/if}
+      </div>
+    </div>
+  </div>
+{/if}
+
+<!-- Replace the blog section with a download button -->
+<div class="py-16 bg-base-100 bg-primary/10">
+  <div class="max-w-5xl mx-auto px-4">
+    <div class="text-center mb-10">
+      <div id="free-guides" class="text-3xl md:text-4xl font-bold text-[#2d174d] mb-2">
+        Still not sure where to start?
+      </div>
+      <div class="text-lg text-[#2d174d] opacity-80">
+        Download our comprehensive Pre-IB guide as a PDF.
+      </div>
+    </div>
+    <div class="flex justify-center">
+      <a href="/guides/ib-guide.pdf" download class="btn btn-primary btn-lg">
+        Download PDF
+      </a>
+    </div>
+  </div>
+</div>
+
+

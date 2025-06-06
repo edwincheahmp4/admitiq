@@ -1,5 +1,5 @@
-export const WebsiteName: string = "SaaS Starter"
+export const WebsiteName: string = "AdmitIQ"
 export const WebsiteBaseUrl: string = "https://saasstarter.work"
 export const WebsiteDescription: string =
-  "Open source, fast, and free to host SaaS template. Built with SvelteKit, Supabase, Stripe, Tailwind, DaisyUI, and Postgres"
+  "Pre-IB counseling service centered around making summer producitve. Prepare your child in one summer in return for two years worth of success. Founded by Edwin Cheah, a 45 IB perfect scorer and full-ride student at Wesleyan University."
 export const CreateProfileStep: boolean = true
