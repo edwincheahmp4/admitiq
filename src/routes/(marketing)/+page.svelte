@@ -1,52 +1,6 @@
-<script lang="ts">
-  import {
-    WebsiteName,
-    WebsiteBaseUrl,
-    WebsiteDescription,
-  } from "./../../config"
-
-  const ldJson = {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    name: WebsiteName,
-    url: WebsiteBaseUrl,
-  }
-  const jsonldScript = `<script type="application/ld+json">${
-    JSON.stringify(ldJson) + "<"
-  }/script>`
-
-  let showModal = false
-  let modalContent = ""
-  let modalTitle = ""
-  let ctaLink = ""
-  let ctaLinkText = ""
-  let newTab = false
-
-  function openModal(title, content, cta = null) {
-    modalTitle = title
-    modalContent = content
-    if (cta) {
-      ctaLink = cta.link
-      ctaLinkText = cta.text
-      newTab = cta.newTab || false
-    }
-    showModal = true
-  }
-
-  function closeModal() {
-    showModal = false
-  }
-
-  import { onMount } from "svelte"
-  let blogPosts: { title: string; slug: string; description?: string }[] = []
-
-</script>
-
 <svelte:head>
-  <title>{WebsiteName}</title>
-  <meta name="description" content={WebsiteDescription} />
-  <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-  {@html jsonldScript}
+  <title>AdmitIQ</title>
+  <meta name="description" content="AdmitIQ: IB success from a perfect scorer. Free chat, tutoring, and counseling for students and parents." />
   <!-- Gradient favicon -->
   <link
     rel="icon"
@@ -58,18 +12,12 @@
 <div class="hero min-h-[60vh] dotted-bg">
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
-      <div
-        class="text-[#2d174d] text-xl md:text-3xl font-bold mb-3 md:mb-7 pb-1"
-      >
-        ☔️ Save <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >your child</span
-        > from IB stress
+      <div class="text-[#2d174d] text-xl md:text-3xl font-bold mb-3 md:mb-7 pb-1">
+        ☔️ Save <span class="underline decoration-secondary decoration-4 md:decoration-[6px]">your child</span> from IB stress
       </div>
-
       <div
         class="text-4xl md:text-5xl font-bold px-2 bg-clip-text text-transparent bg-linear-to-r from-primary to-accent"
-        style="line-height: 1.2; "
+        style="line-height: 1.2;"
       >
         One summer of preparation.
         <br />
@@ -78,9 +26,7 @@
       <div class="mt-6 md:mt-10 text-sm md:text-lg text-[#2d174d]">
         Hear from a 45 perfect IB scorer and full-ride scholarship student.
       </div>
-      <div
-        class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center"
-      >
+      <div class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center">
         <a href="">
           <button class="btn btn-primary px-6 flex items-center gap-2">
             Learn more
@@ -111,9 +57,9 @@
           </button>
         </a>
         <a href="">
-          <button class="btn btn-outline px-6 text-[#2d174d]"
-            >Schedule a free 15-minute chat</button
-          >
+          <button class="btn btn-outline px-6 text-[#2d174d]">
+            Schedule a free 15-minute chat
+          </button>
         </a>
       </div>
     </div>
@@ -125,24 +71,17 @@
     <div class="min-h-[60vh]">
       <div class="pt-20 pb-8 px-4">
         <div class="max-w-7xl mx-auto">
-          <div
-            class="bg-white rounded-2xl shadow-xl flex flex-col md:flex-row items-center p-8 md:p-12 gap-8 min-h-[320px]"
-          >
+          <div class="bg-white rounded-2xl shadow-xl flex flex-col md:flex-row items-center p-8 md:p-12 gap-8 min-h-[320px]">
             <!-- Photo -->
-            <div
-              class="flex-shrink-0 h-full flex items-stretch w-full md:w-1/2"
-            >
+            <div class="flex-shrink-0 h-full flex items-stretch w-full md:w-1/2">
               <img
                 src="/images/edwincheah.jpeg"
                 alt="Edwin Cheah"
                 class="h-full w-full object-cover"
               />
-              <!-- keep left rounding if you want, remove if not -->
             </div>
             <!-- Text -->
-            <div
-              class="flex-1 text-center md:text-left w-full md:w-1/2 flex flex-col justify-center"
-            >
+            <div class="flex-1 text-center md:text-left w-full md:w-1/2 flex flex-col justify-center">
               <div class="text-2xl md:text-4xl font-bold pb-2 mb-2">
                 Why I want to help
               </div>
@@ -167,7 +106,6 @@
   </div>
 </div>
 
-<!-- Add this section after the hero or wherever you want the cards to appear -->
 <div id="services" class="py-16 bg-base-100">
   <div class="max-w-5xl mx-auto px-4">
     <div class="text-center mb-10">
@@ -184,8 +122,7 @@
         <div class="card-body flex flex-col items-center text-center p-8">
           <div class="text-lg font-bold text-[#2d174d] mb-2">
             ☕️ Free Virtual Coffee Chat <br />
-            <span class="font-normal text-base text-gray-500">(15-30 mins)</span
-            >
+            <span class="font-normal text-base text-gray-500">(15-30 mins)</span>
           </div>
           <div class="text-[#2d174d] mb-4">
             Let's chat for 15 minutes over Zoom so you can ask me any questions
@@ -193,9 +130,9 @@
             to know. I’m here to help and am more than happy to share my
             personal experiences to help you plan best practices for your child.
           </div>
-          <button class="btn btn-primary btn-wide mt-auto"
-            >Book Free Chat</button
-          >
+          <button class="btn btn-primary btn-wide mt-auto">
+            Book Free Chat
+          </button>
         </div>
       </div>
       <!-- IB Subject Tutoring -->
@@ -212,7 +149,9 @@
             will have a clear path of navigating the IB of them in the two years
             ahead.
           </div>
-          <button class="btn btn-primary btn-wide mt-auto">Get Tutoring</button>
+          <button class="btn btn-primary btn-wide mt-auto">
+            Get Tutoring
+          </button>
         </div>
       </div>
       <!-- 1-on-1 Pre-IB Counseling -->
@@ -229,16 +168,15 @@
             strategically select courses, and build winning habits inspired by
             IB analytics and science-based strategies.
           </div>
-          <button class="btn btn-primary btn-wide mt-auto"
-            >Start Counseling</button
-          >
+          <button class="btn btn-primary btn-wide mt-auto">
+            Start Counseling
+          </button>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-<!-- Replace the blog section with a download button -->
 <div class="py-16 bg-base-100 bg-primary/10">
   <div class="max-w-5xl mx-auto px-4">
     <div class="text-center mb-10">
