@@ -122,7 +122,7 @@
         Get ahead of the game
       </div>
       <div class="text-lg text-[#2d174d] opacity-80">
-        Choose the best way to support your child's IB journey.
+        All paid plans come with success webinars providing free insights on IB success
       </div>
     </div>
     <div class="flex flex-col md:flex-row gap-8 justify-center items-stretch">
