@@ -33,7 +33,7 @@
         </a></li>
       <li class="md:mx-2">
         <a href="/#free-guides" on:click|preventDefault={() => { document.getElementById('free-guides')?.scrollIntoView({ behavior: 'smooth' }); }}>
-          Free Guides
+          Free Guide
         </a>
       </li>
       <li class="md:mx-0">
