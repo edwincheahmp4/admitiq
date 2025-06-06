@@ -40,28 +40,6 @@
   import { onMount } from "svelte"
   let blogPosts: { title: string; slug: string; description?: string }[] = []
 
-  // Your project structure is:
-  // /routes/(marketing)/blog/[slug]/+page.svelte   <-- each blog post
-  // /routes/(marketing)/blog/+page.svelte         <-- blog index (optional)
-  // /routes/(marketing)/+page.svelte              <-- main page (this file)
-  //
-  // You want to list all blog posts on the main page.
-  // SvelteKit does NOT automatically provide a JSON endpoint for all posts.
-  // You need to create a +server.ts (or +page.server.ts) in /routes/(marketing)/blog/
-  // that exports all posts' metadata (title, slug, description).
-  //
-  // Here is the correct fetch logic for the main page:
-  onMount(async () => {
-    try {
-      // This endpoint must be implemented as described above.
-      const res = await fetch("/blog/posts.json")
-      if (res.ok) {
-        blogPosts = await res.json()
-      }
-    } catch (e) {
-      // handle error or leave empty
-    }
-  })
 </script>
 
 <svelte:head>
@@ -259,37 +237,6 @@
     </div>
   </div>
 </div>
-
-{#if showModal}
-  <div class="fixed inset-0 flex items-center justify-center z-50">
-    <div class="modal modal-open">
-      <div class="modal-box relative">
-        <button
-          class="btn btn-sm btn-circle absolute right-2 top-2"
-          on:click={closeModal}
-        >
-          ✕
-        </button>
-        <h2 class="text-lg font-bold mb-4">{modalTitle}</h2>
-        <div class="modal-content mb-4">
-          {@html modalContent}
-        </div>
-        {#if ctaLink}
-          <div class="modal-action">
-            <a
-              href={ctaLink}
-              class="btn btn-primary"
-              target={newTab ? "_blank" : "_self"}
-              rel={newTab ? "noopener noreferrer" : ""}
-            >
-              {ctaLinkText}
-            </a>
-          </div>
-        {/if}
-      </div>
-    </div>
-  </div>
-{/if}
 
 <!-- Replace the blog section with a download button -->
 <div class="py-16 bg-base-100 bg-primary/10">
