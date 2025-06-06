@@ -27,35 +27,44 @@
         Hear from a 45 perfect IB scorer and full-ride scholarship student.
       </div>
       <div class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center">
-        <a href="">
-          <button class="btn btn-primary px-6 flex items-center gap-2">
-            Learn more
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              class="w-5 h-5"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <circle
-                cx="11"
-                cy="11"
-                r="7"
-                stroke="currentColor"
-                stroke-width="2"
-              />
-              <line
-                x1="16.65"
-                y1="16.65"
-                x2="21"
-                y2="21"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-              />
-            </svg>
-          </button>
-        </a>
+        <!-- ...existing code... -->
+<a href="#why-help">
+  <button class="btn btn-primary px-6 flex items-center gap-2">
+    Learn more
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      class="w-5 h-5"
+      fill="none"
+      viewBox="0 0 24 24"
+      stroke="currentColor"
+    >
+      <circle
+        cx="11"
+        cy="11"
+        r="7"
+        stroke="currentColor"
+        stroke-width="2"
+      />
+      <line
+        x1="16.65"
+        y1="16.65"
+        x2="21"
+        y2="21"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+      />
+    </svg>
+  </button>
+</a>
+<!-- ...existing code... -->
+
+<script>
+  // Enable smooth scrolling for anchor links
+  if (typeof window !== 'undefined') {
+    document.documentElement.style.scrollBehavior = 'smooth';
+  }
+</script>
         <a href="">
           <button class="btn btn-outline px-6 text-[#2d174d]">
             Schedule a free 15-minute chat
