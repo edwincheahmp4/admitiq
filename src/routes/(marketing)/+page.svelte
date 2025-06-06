@@ -170,7 +170,7 @@
         <div class="card-body flex flex-col items-center text-center p-8">
           <div class="text-lg font-bold text-[#2d174d] mb-2">
             🎓 1-on-1 Counseling <br />
-            <span class="font-normal text-base text-gray-500">($70/hr)</span>
+            <span class="font-normal text-base text-gray-500">($40/hr)</span>
           </div>
           <div class="text-[#2d174d] mb-4">
             Understand what your child will need to go through in the next 2
