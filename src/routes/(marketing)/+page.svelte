@@ -209,3 +209,50 @@
     </div>
   </div>
 </div>
+
+<div id="faq" class="py-16 bg-base-100">
+  <div class="max-w-5xl mx-auto px-4">
+    <div class="text-center mb-10">
+      <div class="text-3xl md:text-4xl font-bold text-[#2d174d] mb-2">
+        Frequently Asked Questions
+      </div>
+      <div class="text-lg text-[#2d174d] opacity-80">
+        Answers to common questions about AdmitIQ and IB support.
+      </div>
+    </div>
+    <div class="space-y-4">
+      <details class="bg-white rounded-xl shadow p-4">
+        <summary class="font-semibold cursor-pointer text-[#2d174d]">
+          How does payment work?
+        </summary>
+        <div class="mt-2 text-[#2d174d] opacity-80">
+          We charge on a monthly basis at the beginning of every month. We take direct bank transfer payments. Signing up for any of the packages does not require any upfront payment; we will sort out payment after the first free consultation at the specified fixed rate on the website. 
+        </div>
+      </details>
+      <details class="bg-white rounded-xl shadow p-4">
+        <summary class="font-semibold cursor-pointer text-[#2d174d]">
+          What services do you offer?
+        </summary>
+        <div class="mt-2 text-[#2d174d] opacity-80">
+          We offer free virtual coffee chats, IB subject tutoring, and personalized 1-on-1 counseling to help students succeed in the IB and with college applications.
+        </div>
+      </details>
+      <details class="bg-white rounded-xl shadow p-4">
+        <summary class="font-semibold cursor-pointer text-[#2d174d]">
+          How do I book a session?
+        </summary>
+        <div class="mt-2 text-[#2d174d] opacity-80">
+          Simply book a free chat on the forms above or contact us directly with the details in the footer for more information.
+        </div>
+      </details>
+      <details class="bg-white rounded-xl shadow p-4">
+        <summary class="font-semibold cursor-pointer text-[#2d174d]">
+          Can I get a free consultation?
+        </summary>
+        <div class="mt-2 text-[#2d174d] opacity-80">
+          Yes! We offer a free 15-minute virtual coffee chat to answer your questions and discuss how we can help.
+        </div>
+      </details>
+    </div>
+  </div>
+</div>
