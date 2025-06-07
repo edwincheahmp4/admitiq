@@ -28,7 +28,7 @@
       </div>
       <div class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center">
         <!-- ...existing code... -->
-<a href="#why-help">
+<a href="#services">
   <button class="btn btn-primary px-6 flex items-center gap-2">
     Learn more
     <svg
