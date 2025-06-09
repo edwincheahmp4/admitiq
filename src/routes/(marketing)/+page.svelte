@@ -67,7 +67,7 @@
 </script>
         <a href="https://form.typeform.com/to/CryN4TVr">
           <button class="btn btn-outline px-6 text-[#2d174d]">
-            Schedule a free 15-minute chat
+            Schedule a free 30-minute chat
           </button>
         </a>
       </div>
@@ -131,10 +131,10 @@
         <div class="card-body flex flex-col items-center text-center p-8">
           <div class="text-lg font-bold text-[#2d174d] mb-2">
             ☕️ Free Virtual Coffee Chat <br />
-            <span class="font-normal text-base text-gray-500">(15-30 mins)</span>
+            <span class="font-normal text-base text-gray-500">(30 mins)</span>
           </div>
           <div class="text-[#2d174d] mb-4">
-            Let's chat for 15 minutes over Zoom so you can ask me any questions
+            Let's chat for 30 minutes over Zoom so you can ask me any questions
             about the IB, college preparations, or anything else you would like
             to know. I’m here to help and am more than happy to share my
             personal experiences to help you plan best practices for your child.
