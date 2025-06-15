@@ -150,7 +150,7 @@
         <div class="card-body flex flex-col items-center text-center p-8">
           <div class="text-lg font-bold text-[#2d174d] mb-2">
             📚 IB Subject Tutoring <br />
-            <span class="font-normal text-base text-gray-500">($80/hr)</span>
+            <span class="font-normal text-base text-gray-500">($100/hr)</span>
           </div>
           <div class="text-[#2d174d] mb-4">
             Help your child familiarize themselves with essential foundations
