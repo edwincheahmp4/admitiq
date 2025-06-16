@@ -88,20 +88,13 @@
             <!-- Text -->
             <div class="flex-1 text-center md:text-left w-full md:w-1/2 flex flex-col justify-center">
               <div class="text-2xl md:text-4xl font-bold pb-2 mb-2">
-                Why I want to help
+                We keep everyone on the same page
               </div>
               <div class="mt-2 text-lg font-normal text-gray-800">
-                My name is Edwin and I am a 45 perfect IB scorer on a full-ride
-                scholarship at Wesleyan University. <span
+                We remember how overwhelming transitioning into IB can be -- for both parent and child. <span
                   class="underline decoration-secondary decoration-4 font-bold"
                   >AdmitIQ</span
-                > is a program I built for my younger self, keeping in mind the struggles
-                I faced when I first started the IB program. Knowing how overwhelming
-                it can be to start the IB, especially after a long summer break,
-                I find it to be essential to utilize your summer to save your child's
-                future self from stress. That's why I'm strongly passionate about
-                helping your child succeed in the IB program by providing them with
-                the tools and resources they need to excel.
+                > is a team of bilingual tutors and recent XWA alumni that works closely with parents and students to help them reach their goals with maximum success and minimum effort. This program exists not just to tutor, but to mentor. We offer subject-specific tutoring from 45 scoring alumni all while keeping parents regularly posted and supported with a range of free resources to support their child. 
               </div>
             </div>
           </div>
