@@ -150,7 +150,7 @@
           </div>
           <a href="https://form.typeform.com/to/ik19KsYE">
           <button class="btn btn-primary btn-wide mt-auto">
-            Plan a free trial
+            Plan your first lesson
           </button></a>
         </div>
       </div>
@@ -169,7 +169,7 @@
           </div>
           <a href="https://form.typeform.com/to/w6pC4DSO">
           <button class="btn btn-primary btn-wide mt-auto">
-            Plan a free trial
+            Schedule your consultation
           </button></a>
         </div>
       </div>
