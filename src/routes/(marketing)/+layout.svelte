@@ -11,7 +11,6 @@
 
 <div class="navbar bg-base-100 mx-auto shadow-md">
   <div class="flex-1">
-    <img src="/images/favicon.jpeg" alt="AdmitIQ logo" class="w-7 h-7 rounded-full" />
     <a class="btn btn-ghost normal-case text-xl" href="/">{WebsiteName}</a>
   </div>
   <div class="flex-none">
