@@ -2,7 +2,7 @@
   <title>AdmitIQ</title>
   <meta name="description" content="AdmitIQ: IB success from a perfect scorer. Free chat, tutoring, and counseling for students and parents." />
   <!-- Gradient favicon -->
-  <link rel="icon" type="image/png" href="/favicon.png" />
+  <link rel="icon" type="image/png" href="/images/favicon.jpeg" />
 </svelte:head>
 
 <div class="hero min-h-[60vh] dotted-bg">
