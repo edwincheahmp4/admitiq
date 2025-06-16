@@ -154,19 +154,18 @@
           </button></a>
         </div>
       </div>
-      <!-- 1-on-1 Pre-IB Counseling -->
+      <!-- Profile Analysis -->
       <div class="card bg-white shadow-xl rounded-2xl flex-1">
         <div class="card-body flex flex-col items-center text-center p-8">
           <div class="text-lg font-bold text-[#2d174d] mb-2">
-            🎓 1-on-1 Counseling <br />
-            <span class="font-normal text-base text-gray-500">($40/hr)</span>
+            🎓 Detailed Profile Analysis <br />
+            <span class="font-normal text-base text-gray-500">$120 for 1.5hr session </span>
           </div>
           <div class="text-[#2d174d] mb-4">
-            Understand what your child will need to go through in the next 2
-            years to save them from stress in future. Provide your child with a
+            Fully understand your career choices and course selection to access a 
             personalized success roadmap to navigate college applications,
-            strategically select courses, and build winning habits inspired by
-            IB analytics and science-based strategies.
+            strategically navigate the IB, and build winning habits inspired by
+            data analytics and science-based strategies.
           </div>
           <a href="https://form.typeform.com/to/w6pC4DSO">
           <button class="btn btn-primary btn-wide mt-auto">
