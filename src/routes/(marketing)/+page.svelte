@@ -1,6 +1,7 @@
 <svelte:head>
   <title>AdmitIQ</title>
-  <meta name="description" content="AdmitIQ: IB success from a perfect scorer. Free chat, tutoring, and counseling for students and parents." />
+  <meta name="description" content=" Bilingual Pre-IB tutoring services aimed at helping G6-G10 prepare for the MYP and a successful transition into the IBDP. We provide counseling to keep parents and students on the same page" />
+  <meta name="google-site-verification" content="yfoXk2yHI_VMa6i8RDbFg_pCF2OAV7YPxhVfIsbfD7Q" />
   <!-- Gradient favicon -->
   <link rel="icon" type="image/png" href="/images/favicon.jpeg" />
 </svelte:head>
